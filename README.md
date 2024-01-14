@@ -1,2 +1,2 @@
 # goit-node-cli
-![screen](image-1.png)
+![screen](image-3.png)
